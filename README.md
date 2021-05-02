@@ -1,7 +1,7 @@
 # 📝 CV App / Lightning Resume
 A suite of **Lightning Web Components** ⚡ to build a Resume inside of Salesforce.
 
-[**View on GitHub**](https://github.com/shrutis22/lwc-cv-app)
+[**View on GitHub**](https://github.com/goruavsood/lwc-cv-app)
 
 ## ❔ What does this App do ?
 This app let's you to create a fancy CV / Resume using rich **Lightning Web Components**.
@@ -18,7 +18,7 @@ You could also use **Force.com Sites** and **Lightning Out** to create a Public 
 ## ☁️ Deployment
 Use the below button to deploy this to your SF Org in a single click!
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=shrutis22&repo=lwc-cv-app">
+<a href="https://githubsfdeploy.herokuapp.com?owner=gouravsood&repo=lwc-cv-app">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
